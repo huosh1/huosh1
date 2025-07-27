@@ -2,15 +2,19 @@
 
 **`Shadow Learner (Offensive Security | Exploit Dev | Reverse Engineering)`**
 
-I'm walking the path of the **shadows of cybersecurity**, building skills in **offensive security**, **exploit development**, and **malware analysis**.  
-Every project, write-up, and tool I create is another step deeper into mastering **systems, networks, and evasion**.  
+I’m building a structured and relentless journey to master **cybersecurity, exploit development, and reverse engineering**.  
+My learning path combines **carefully selected books** (the *Book’s Journey*), **practical exploitation projects**, and **detailed write-ups**, all designed to transform theory into actionable skills.
 
-![huoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=huosh1&show_icons=true&theme=vision-friendly-dark)
+This roadmap is split into phases, each with a clear focus:
 
+- **Offensive Security** — from initial footholds to advanced privilege escalation and stealth techniques.  
+- **Exploit Development** — mastering memory corruption, shellcode, and custom exploit creation.  
+- **Reverse Engineering & Malware Analysis** — dissecting binaries, understanding malicious code, and building defensive insights.
 
----
+Every project, lab, and write-up is part of this bigger picture:  
+**a complete framework to go from fundamentals to expert-level offensive security.**
 
-### 💻 Tech Stack
+## 💻 Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,10 +27,7 @@ Every project, write-up, and tool I create is another step deeper into mastering
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
----
-
-### My ultimate path into cyber-security and programming
+## My ultimate path into cyber-security and programming
 <p align="left">
   <a href="https://github.com/huosh1/books-journey">
     <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="120px" />
@@ -57,9 +58,20 @@ Every project, write-up, and tool I create is another step deeper into mastering
 </p>
 
 ###Test
-### My ultimate path into cyber-security and programming
+<p align="center">
+  <a href="https://github.com/huosh1/books-journey">
+    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="160px" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://github.com/huosh1/exploit-mastery">
+    <img src="https://github.com/user-attachments/assets/246f4b1e-3d66-4be8-9c53-369ba3611d33" height="160px" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://github.com/huosh1/python-mastery">
+    <img src="https://github.com/user-attachments/assets/93cbae41-a245-41a4-a005-698fbd94cbd3" height="160px" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://github.com/huosh1/cybersecurity-writeups">
+    <img src="https://github.com/user-attachments/assets/f6b1fe00-9c81-413e-a304-05132cbc89a1" height="160px" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
 
 
-
-</div>
 

@@ -14,6 +14,17 @@ This roadmap is split into phases, each with a clear focus:
 Every project, lab, and write-up is part of this bigger picture:  
 **a complete framework to go from fundamentals to expert-level offensive security.**
 
+<p align="left">
+  <a href="https://github.com/huosh1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/huosh1?color=000000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=444444"/>
+  </a>
+  <a href="https://github.com/huosh1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/huosh1?color=000000&style=for-the-badge&labelColor=ffffff&logo=star&logoColor=555555&label=STARS"/>
+  </a>
+</p>
+
+
+
 ## 💻 Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 

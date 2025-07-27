@@ -58,7 +58,7 @@ Every project, lab, and write-up is part of this bigger picture:
 
 <p align="center">
   <a href="https://github.com/huosh1/books-journey">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&bg_color=1F1B24&title_color=00CFFF&text_color=CFCFCF&icon_color=00E5FF&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&bg_color=000000&title_color=00CFFF&text_color=CFCFCF&icon_color=00E5FF&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 
   <a href="https://github.com/huosh1/exploit-mastery">

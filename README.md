@@ -30,16 +30,16 @@ Every project, lab, and write-up is part of this bigger picture:
 ## My ultimate path into hacking
 <p align="center">
   <a href="https://github.com/huosh1/books-journey">
-    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="100px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="210px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/exploit-mastery">
-    <img src="https://github.com/user-attachments/assets/246f4b1e-3d66-4be8-9c53-369ba3611d33" height="240px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://github.com/user-attachments/assets/246f4b1e-3d66-4be8-9c53-369ba3611d33" height="210px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/python-mastery">
-    <img src="https://github.com/user-attachments/assets/93cbae41-a245-41a4-a005-698fbd94cbd3" height="240px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://github.com/user-attachments/assets/93cbae41-a245-41a4-a005-698fbd94cbd3" height="210px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/cybersecurity-writeups">
-    <img src="https://github.com/user-attachments/assets/f6b1fe00-9c81-413e-a304-05132cbc89a1" height="240px" style="margin: 0 00px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://github.com/user-attachments/assets/f6b1fe00-9c81-413e-a304-05132cbc89a1" height="210px" style="margin: 0 00px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 

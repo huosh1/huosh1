@@ -1,4 +1,3 @@
-
 # huoshi
 
 **`Shadow Learner (Offensive Security | Exploit Dev | Reverse Engineering)`**
@@ -25,34 +24,83 @@ Every project, write-up, and tool I create is another step deeper into mastering
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-#
+<p align="left">
+  <a href="https://github.com/huoshi/books-journey">
+    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="100px" />
+  </a>
+  <a href="https://github.com/huoshi/exploit-mastery">
+    <img src="https://github.com/user-attachments/assets/246f4b1e-3d66-4be8-9c53-369ba3611d33" height="100px" />
+  </a>
+  <a href="https://github.com/huoshi/python-mastery">
+    <img src="https://github.com/user-attachments/assets/93cbae41-a245-41a4-a005-698fbd94cbd3" height="100px" />
+  </a>
+  <a href="https://github.com/huoshi/cybersecurity-writeups">
+    <img src="https://github.com/user-attachments/assets/f6b1fe00-9c81-413e-a304-05132cbc89a1" height="100px" />
+  </a>
+</p>
 
-### 📜 Latest Write-ups
+<p align="left">
+  <a href="https://github.com/huosh1/books-journey">
+    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="120px" />
+  </a>
+  <a href="https://github.com/huosh1/exploit-mastery">
+    <img src="https://github.com/user-attachments/assets/246f4b1e-3d66-4be8-9c53-369ba3611d33" height="120px" />
+  </a>
+  <a href="https://github.com/huosh1/python-mastery">
+    <img src="https://github.com/user-attachments/assets/93cbae41-a245-41a4-a005-698fbd94cbd3" height="120px" />
+  </a>
+  <a href="https://github.com/huosh1/cybersecurity-writeups">
+    <img src="https://github.com/user-attachments/assets/f6b1fe00-9c81-413e-a304-05132cbc89a1" height="120px" />
+  </a>
+</p>
 
-[![TryHackMe Write-ups](https://custom-icon-badges.demolab.com/badge/-TryHackMe_Writeups-333333?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/huoshi/cybersecurity-writeups/tree/main/THM)
-[![HackTheBox](https://custom-icon-badges.demolab.com/badge/-HackTheBox-111111?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/huoshi/cybersecurity-writeups/tree/main/HTB)
+## 📘 My Top Open Source Projects
 
-#
+<p align="left">
+  <a href="https://github.com/huosh1/books-journey">
+    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Book's Journey"/>
+  </a>
+  <a href="https://github.com/huosh1/exploit-mastery">
+    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Exploit Mastery"/>
+  </a>
+</p>
 
-## **Book’s Journey – 8 Phases**
+<p align="left">
+  <a href="https://github.com/huosh1/python-mastery">
+    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Python Mastery"/>
+  </a>
+  <a href="https://github.com/huosh1/cybersecurity-writeups">
+    <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="All Write-ups"/>
+  </a>
+</p>
 
-<!-- BEGIN BOOK-PHASE-CARDS -->
-[![Phase 1: Fundamentals](./assets/phase1.png)](#phase-1-computer-fundamentals--core-knowledge)
-[![Phase 2: Networking](./assets/phase2.png)](#phase-2-networking--cybersecurity-fundamentals)
-[![Phase 3: Scripting](./assets/phase3.png)](#phase-3-scripting--programming-skills)
-[![Phase 4: Web Hacking](./assets/phase4.png)](#phase-4-web-hacking--pentesting)
-[![Phase 5: Memory Exploits](./assets/phase5.png)](#phase-5-memory-exploits--low-level-attacks)
-[![Phase 6: Red Team](./assets/phase6.png)](#phase-6-red-team-operations--advanced-offense)
-[![Phase 7: Malware Analysis](./assets/phase7.png)](#phase-7-malware-analysis--reverse-engineering)
-[![Phase 8: Cloud Security](./assets/phase8.png)](#phase-8-cloud--cloud-security)
-<!-- END BOOK-PHASE-CARDS -->
-->
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" width="40%" alt="Side Image"/>
+</p>
+## 📘 My Top Open Source Projects
 
-## **Main Projects**
-
-[![Books Journey](./assets/93cbae41-a245-41a4-a005-698fbd94cbd3)](https://github.com/huoshi/books-journey)
-[![Exploit Mastery](./assets/exploit_mastery.png)](https://github.com/huoshi/exploit-mastery)
-[![Write-ups](./assets/writeups.png)](https://github.com/huoshi/cybersecurity-writeups)
-[![Offensive Tools](./assets/offensive_tools.png)](https://github.com/huoshi/offensive-tools)
-
-
+<table>
+<tr>
+  <td width="60%">
+    <p align="left">
+      <a href="https://github.com/huosh1/books-journey">
+        <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+      </a>
+      <a href="https://github.com/huosh1/exploit-mastery">
+        <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+      </a>
+    </p>
+    <p align="left">
+      <a href="https://github.com/huosh1/python-mastery">
+        <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+      </a>
+      <a href="https://github.com/huosh1/cybersecurity-writeups">
+        <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+      </a>
+    </p>
+  </td>
+  <td width="40%">
+    <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" width="100%" alt="My Art"/>
+  </td>
+</tr>
+</table>

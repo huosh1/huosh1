@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Image](https://github.com/user-attachments/assets/7f0273b1-f919-427b-80b5-809c051a2423)
+![Image](https://github.com/user-attachments/assets/a6b14958-b6d7-44ea-aa88-cb582bc3ab54)
+![Image](https://github.com/user-attachments/assets/655cd755-63c7-466a-bba0-086f5637bd6a)
+![Image](https://github.com/user-attachments/assets/4cff9c12-9e11-49c4-bf42-7b20df04df73)
+![Image](https://github.com/user-attachments/assets/5bd2c94c-0a32-4443-bda9-73aaa89c52b3)
+![Image](https://github.com/user-attachments/assets/08d6268d-e79d-4687-a2ac-12c7e3e261ef)
+![Image](https://github.com/user-attachments/assets/b3d5a290-1001-4788-980e-35ce983e75dd)
+![Image](https://github.com/user-attachments/assets/3016c535-39df-4f09-9585-81736b90d882)
+![Image](https://github.com/user-attachments/assets/f400c92f-ca9c-403f-a641-142e73b1bfd9)

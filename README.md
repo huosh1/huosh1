@@ -48,5 +48,11 @@ Every project, write-up, and tool I create is another step deeper into mastering
 <!-- END BOOK-PHASE-CARDS -->
 ->
 
+## **Main Projects**
+
+[![Books Journey](./assets/93cbae41-a245-41a4-a005-698fbd94cbd3)](https://github.com/huoshi/books-journey)
+[![Exploit Mastery](./assets/exploit_mastery.png)](https://github.com/huoshi/exploit-mastery)
+[![Write-ups](./assets/writeups.png)](https://github.com/huoshi/cybersecurity-writeups)
+[![Offensive Tools](./assets/offensive_tools.png)](https://github.com/huoshi/offensive-tools)
 
 

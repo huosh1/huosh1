@@ -27,7 +27,7 @@ Every project, lab, and write-up is part of this bigger picture:
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## My ultimate path into hacking
+## 📚 My ultimate path into hacking
 <p align="center">
   <a href="https://github.com/huosh1/books-journey">
     <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="200px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />

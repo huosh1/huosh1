@@ -43,55 +43,20 @@ Every project, lab, and write-up is part of this bigger picture:
   </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/huosh1/books-journey">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79ff97&theme=react&show_icons=false" alt="Books Journey">
-  </a>
-  <a href="https://github.com/huosh1/exploit-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79ff97&theme=react&show_icons=false" alt="Exploit Mastery">
-  </a>
-  <a href="https://github.com/huosh1/python-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79ff97&theme=react&show_icons=false" alt="Python Mastery">
-  </a>
-  <a href="https://github.com/huosh1/cybersecurity-writeups">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79ff97&theme=react&show_icons=false" alt="Writeups">
-  </a>
-</p>
-
 
 
 <p align="center">
   <a href="https://github.com/huosh1/books-journey">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Books Journey">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/exploit-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Exploit Mastery">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/python-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Python Mastery">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/cybersecurity-writeups">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Writeups">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/huosh1/books-journey">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Books Journey">
-  </a>
-  <a href="https://github.com/huosh1/exploit-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=exploit-mastery&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Exploit Mastery">
-  </a>
-  <a href="https://github.com/huosh1/python-mastery">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=python-mastery&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Python Mastery">
-  </a>
-  <a href="https://github.com/huosh1/cybersecurity-writeups">
-    <img width="24%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&hide_border=false&bg_color=FFFFFF&border_color=DDDDDD&title_color=000000&icon_color=000000&theme=react&show_icons=false" alt="Writeups">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=cybersecurity-writeups&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 

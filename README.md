@@ -1,6 +1,6 @@
 # huoshi 후오시.
 
-**`Shadow Learner (Offensive Security | Exploit Dev | Reverse Engineering)`**
+**`Learner (Offensive Security | Exploit Dev | Reverse Engineering)`**
 
 I’m building a structured and relentless journey to master **cybersecurity, exploit development, and reverse engineering**.  
 My learning path combines **carefully selected books** (the *Book’s Journey*), **practical exploitation projects**, and **detailed write-ups**, all designed to transform theory into actionable skills.

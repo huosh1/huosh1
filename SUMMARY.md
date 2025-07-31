@@ -9,9 +9,11 @@
 ## My write-ups
 
 * [TryHackMe](my-write-ups/tryhackme/README.md)
-  * [Page 3](my-write-ups/tryhackme/page-3.md)
-* [HackTheBox](my-write-ups/hackthebox.md)
-* [RootMe](my-write-ups/rootme.md)
+  * [1](my-write-ups/tryhackme/1.md)
+* [HackTheBox](my-write-ups/hackthebox/README.md)
+  * [1](my-write-ups/hackthebox/1.md)
+* [RootMe](my-write-ups/rootme/README.md)
+  * [1](my-write-ups/rootme/1.md)
 
 ## Exploits Mastery
 

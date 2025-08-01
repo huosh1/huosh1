@@ -40,7 +40,7 @@ Every project, lab, and write-up is part of this bigger picture:
 
 ## 📚 Learner's Journey — The Mastery Path of Hacking
 <p align="center">
-  <a href="https://huoshi.gitbook.io/huoshi">
+  <a href="https://github.com/huosh1/books-journey">
     <img src="https://github.com/user-attachments/assets/dd28b3c1-cc07-4194-af2a-034c684ff5ad" height="200px" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/huosh1/exploit-mastery">
@@ -57,7 +57,7 @@ Every project, lab, and write-up is part of this bigger picture:
 
 
 <p align="center">
-  <a href="https://huoshi.gitbook.io/huoshi">
+  <a href="https://github.com/huosh1/books-journey">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huosh1&repo=books-journey&bg_color=000000&title_color=00CFFF&text_color=CFCFCF&icon_color=00E5FF&show_icons=true&hide_border=false" width="24%" style="margin: 0px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.12)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 
